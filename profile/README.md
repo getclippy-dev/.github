@@ -228,11 +228,11 @@ Clippy is strategically incorporated in **Iceland** with development nodes in **
 
 ## 📚 Documentation
 
-- [User Guide](https://getclippy.dev/docs/user-guide)
-- [Developer Docs](https://getclippy.dev/docs/developers)
-- [API Reference](https://getclippy.dev/docs/api)
-- [Security Model](https://getclippy.dev/docs/security)
-- [FAQ](https://getclippy.dev/docs/faq)
+- [Quick Start](https://getclippy.dev/docs#quick-start)
+- [Developer Docs](https://getclippy.dev/docs#developers)
+- [API Reference](https://getclippy.dev/docs#api)
+- [Security Model](https://getclippy.dev/docs#security)
+- [FAQ](https://getclippy.dev/docs#faq)
 
 ## 💬 Community
 

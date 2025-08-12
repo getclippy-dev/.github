@@ -121,17 +121,7 @@ graph TB
 ### Building from Source
 
 ```bash
-# Install all dependencies
-npm run bootstrap
-
-# Build all packages
-npm run build
-
-# Run tests
-npm run test
-
-# Start development environment
-npm run dev
+nix build
 ```
 
 ### Contributing

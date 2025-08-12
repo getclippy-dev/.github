@@ -136,17 +136,7 @@ npm run dev
 
 ### Contributing
 
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
-
-```bash
-# Fork the repo, then:
-git checkout -b feature/your-feature
-# Make your changes
-npm run test
-git commit -m "feat: add amazing feature"
-git push origin feature/your-feature
-# Open a Pull Request
-```
+We welcome contributions! Please see our [Community Guide](COMMUNITY.md) for details.
 
 ## 🗺️ Roadmap
 
@@ -262,7 +252,7 @@ Clippy is strategically incorporated in **Iceland** with development nodes in **
 - **Discord**: [discord.gg/clippy](https://discord.gg/clippy)
 - **Matrix**: [#clippy:matrix.org](https://matrix.to/#/#clippy:matrix.org)
 - **Forum**: [forum.getclippy.dev](https://forum.getclippy.dev)
-- **Twitter**: [@clippy_assistant](https://twitter.com/clippy_assistant)
+- **X**: [@getclippy](https://x.com/getclippy)
 
 ## ⚖️ Legal
 
@@ -296,4 +286,6 @@ This ensures Clippy remains free, open, and immune to corporate capture.
 
 ---
 
-*Remember: The best defense against surveillance is making it expensive, unreliable, and unprofitable. Join us in breaking the panopticon, one poisoned click at a time.*
+*Remember: The best defense against surveillance is making it expensive, unreliable, and unprofitable.*
+
+*Join us in breaking the panopticon, one poisoned click at a time.*

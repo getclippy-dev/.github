@@ -3,6 +3,7 @@
 > "It looks like the surveillance economy is extracting $8,000+ per year from you. Would you like help extracting it back?"
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![Discord](https://img.shields.io/discord/clippy?label=Discord&logo=discord)](https://discord.gg/clippy)
 [![Docs](https://img.shields.io/badge/docs-getclippy.dev-orange)](https://docs.getclippy.dev)
 
 ## 🎯 Mission
@@ -192,6 +193,40 @@ git push origin feature/your-feature
 - Share effective poisoning strategies
 - Document surveillance overreach
 - Build resistance networks
+
+## 🔒 Security & Trust
+
+### Warrant Canary System
+Even if we're compromised and legally gagged, multiple fail-safes protect you:
+
+- **Blockchain Dead Man's Switch**: Smart contract requiring monthly updates or clients auto-disable
+- **Multi-Signature Verification**: 2-of-3 distributed team members must sign daily
+- **Community Monitors**: Independent nodes verify our integrity 24/7
+- **Automatic Lockdown**: Clients protect themselves if any canary fails
+
+### Legal Structure
+Multi-jurisdictional design with no single point of failure:
+
+- 🇮🇸 **Iceland Foundation**: Non-profit holding IP and governance
+- 🇨🇭 **Swiss Operations**: Service management with strong privacy laws
+- 🇪🇪 **Estonian Development**: Technical team with EU protections
+- 🌐 **Community DAO**: Decentralized governance and oversight
+
+### Verification
+```bash
+# Check canary status
+clippy canary check --all
+
+# Verify code integrity
+clippy verify --deep
+
+# Emergency lockdown
+clippy lockdown --permanent
+```
+
+**Monitor Dashboard**: [monitor.getclippy.dev](https://monitor.getclippy.dev)
+**Blockchain Canary**: `0x[CONTRACT_ADDRESS]`
+**Emergency Channel**: `#clippy-emergency:matrix.org`
 
 ## 🔒 Security
 

@@ -3,9 +3,7 @@
 > "It looks like the surveillance economy is extracting $8,000+ per year from you. Would you like help extracting it back?"
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-[![Contributors](https://img.shields.io/badge/contributors-500%2B-brightgreen)](https://github.com/clippy-assistant/clippy/graphs/contributors)
-[![Discord](https://img.shields.io/discord/clippy?label=Discord&logo=discord)](https://discord.gg/clippy)
-[![Docs](https://img.shields.io/badge/docs-clippy.assistant-orange)](https://docs.clippy.assistant)
+[![Docs](https://img.shields.io/badge/docs-getclippy.dev-orange)](https://docs.getclippy.dev)
 
 ## 🎯 Mission
 
@@ -65,7 +63,7 @@ docker-compose up -d
 
 For those who prefer convenience over control:
 
-1. Visit [clippy.assistant](https://clippy.assistant)
+1. Visit [getclippy.dev](https://getclippy.dev)
 2. Create an account (no personal info required)
 3. Install the browser extension
 4. Watch Clippy go to work
@@ -218,17 +216,17 @@ Clippy is strategically incorporated in **Iceland** with development nodes in **
 
 ## 📚 Documentation
 
-- [User Guide](https://docs.clippy.assistant/user-guide)
-- [Developer Docs](https://docs.clippy.assistant/developers)
-- [API Reference](https://docs.clippy.assistant/api)
-- [Security Model](https://docs.clippy.assistant/security)
-- [FAQ](https://docs.clippy.assistant/faq)
+- [User Guide](https://docs.getclippy.dev/user-guide)
+- [Developer Docs](https://docs.getclippy.dev/developers)
+- [API Reference](https://docs.getclippy.dev/api)
+- [Security Model](https://docs.getclippy.dev/security)
+- [FAQ](https://docs.getclippy.dev/faq)
 
 ## 💬 Community
 
 - **Discord**: [discord.gg/clippy](https://discord.gg/clippy)
 - **Matrix**: [#clippy:matrix.org](https://matrix.to/#/#clippy:matrix.org)
-- **Forum**: [forum.clippy.assistant](https://forum.clippy.assistant)
+- **Forum**: [forum.getclippy.dev](https://forum.getclippy.dev)
 - **Twitter**: [@clippy_assistant](https://twitter.com/clippy_assistant)
 
 ## ⚖️ Legal
@@ -254,7 +252,7 @@ This ensures Clippy remains free, open, and immune to corporate capture.
 ---
 
 <p align="center">
-  <img src="https://clippy.assistant/clippy-logo.png" width="100" alt="Clippy">
+  <img src="https://getclippy.dev/clippy-logo.png" width="100" alt="Clippy">
   <br>
   <i>"I'm here to help!"</i>
   <br>

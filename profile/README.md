@@ -3,8 +3,9 @@
 > "It looks like the surveillance economy is extracting $8,000+ per year from you. Would you like help extracting it back?"
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![Contributors](https://img.shields.io/badge/contributors-500%2B-brightgreen)](https://github.com/getclippy/clippy/graphs/contributors)
 [![Discord](https://img.shields.io/discord/clippy?label=Discord&logo=discord)](https://discord.gg/clippy)
-[![Docs](https://img.shields.io/badge/docs-getclippy.dev-orange)](https://docs.getclippy.dev)
+[![Docs](https://img.shields.io/badge/docs-getclippy.dev-orange)](https://getclippy.dev/docs)
 
 ## 🎯 Mission
 
@@ -251,11 +252,11 @@ Clippy is strategically incorporated in **Iceland** with development nodes in **
 
 ## 📚 Documentation
 
-- [User Guide](https://docs.getclippy.dev/user-guide)
-- [Developer Docs](https://docs.getclippy.dev/developers)
-- [API Reference](https://docs.getclippy.dev/api)
-- [Security Model](https://docs.getclippy.dev/security)
-- [FAQ](https://docs.getclippy.dev/faq)
+- [User Guide](https://getclippy.dev/docs/user-guide)
+- [Developer Docs](https://getclippy.dev/docs/developers)
+- [API Reference](https://getclippy.dev/docs/api)
+- [Security Model](https://getclippy.dev/docs/security)
+- [FAQ](https://getclippy.dev/docs/faq)
 
 ## 💬 Community
 
@@ -296,6 +297,4 @@ This ensures Clippy remains free, open, and immune to corporate capture.
 
 ---
 
-*Remember: The best defense against surveillance is making it expensive, unreliable, and unprofitable.*
-
-*Join us in breaking the panopticon, one poisoned click at a time.*
+*Remember: The best defense against surveillance is making it expensive, unreliable, and unprofitable. Join us in breaking the panopticon, one poisoned click at a time.*

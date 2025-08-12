@@ -46,15 +46,12 @@ Strategically present different versions of yourself to get better rates on insu
 git clone https://github.com/getclippy/clippy.git
 cd clippy
 
-# Install dependencies
-npm install
-
 # Configure your instance
 cp .env.example .env
 # Edit .env with your preferences
 
 # Run locally
-npm run dev
+nix run
 
 # Or deploy with Docker
 docker-compose up -d

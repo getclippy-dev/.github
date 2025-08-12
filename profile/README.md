@@ -42,7 +42,7 @@ Strategically present different versions of yourself to get better rates on insu
 
 ```bash
 # Clone the repository
-git clone https://github.com/clippy-assistant/clippy.git
+git clone https://github.com/getclippy/clippy.git
 cd clippy
 
 # Install dependencies

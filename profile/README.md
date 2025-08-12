@@ -261,4 +261,6 @@ This ensures Clippy remains free, open, and immune to corporate capture.
 
 ---
 
-*Remember: The best defense against surveillance is making it expensive, unreliable, and unprofitable. Join us in breaking the panopticon, one poisoned click at a time.*
+*Remember: The best defense against surveillance is making it expensive, unreliable, and unprofitable.*
+
+*Join us in breaking the panopticon, one poisoned click at a time.*

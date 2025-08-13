@@ -297,7 +297,7 @@ This ensures Clippy remains free, open, and immune to corporate capture.
 ---
 
 <p align="center">
-  <img src="https://getclippy.dev/clippy-logo.png" width="100" alt="Clippy">
+  <img src="https://avatars.githubusercontent.com/u/226066239?s=200&v=4" width="100" alt="Clippy">
   <br>
   <i>"I'm here to help!"</i>
   <br>

@@ -3,7 +3,6 @@
 > "It looks like the surveillance economy is extracting $8,000+ per year from you. Would you like help extracting it back?"
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-[![Contributors](https://img.shields.io/badge/contributors-500%2B-brightgreen)](https://github.com/getclippy/clippy/graphs/contributors)
 [![Discord](https://img.shields.io/discord/clippy?label=Discord&logo=discord)](https://discord.gg/JxwzfeGP9R)
 [![Docs](https://img.shields.io/badge/docs-getclippy.dev-orange)](https://getclippy.dev/docs)
 

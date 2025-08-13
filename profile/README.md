@@ -236,7 +236,7 @@ Clippy is strategically incorporated in **Iceland** with development nodes in **
 
 ## 💬 Community
 
-- **Discord**: [discord.gg/clippy](https://discord.gg/clippy)
+- **Discord**: [https://discord.gg/JxwzfeGP9R](https://discord.gg/JxwzfeGP9R)
 - **Matrix**: [#getclippy:matrix.org](https://matrix.to/#/#getclippy:matrix.org)
 - **Forum**: [forum.getclippy.dev](https://forum.getclippy.dev)
 - **X**: [@getclippy](https://x.com/getclippy)

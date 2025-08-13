@@ -3,7 +3,8 @@
 > "It looks like the surveillance economy is extracting $8,000+ per year from you. Would you like help extracting it back?"
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-[![Discord](https://img.shields.io/discord/clippy?label=Discord&logo=discord)](https://discord.gg/clippy)
+[![Contributors](https://img.shields.io/badge/contributors-500%2B-brightgreen)](https://github.com/getclippy/clippy/graphs/contributors)
+[![Discord](https://img.shields.io/discord/clippy?label=Discord&logo=discord)](https://discord.gg/JxwzfeGP9R)
 [![Docs](https://img.shields.io/badge/docs-getclippy.dev-orange)](https://getclippy.dev/docs)
 
 ## 🎯 Mission
@@ -39,32 +40,45 @@ Strategically present different versions of yourself to get better rates on insu
 
 ## 🚀 Quick Start
 
-### Self-Hosted (Recommended)
+### Fastest Install (with Nix)
 
 ```bash
-# Clone the repository
-git clone https://github.com/getclippy/clippy.git
-cd clippy
-
-# Configure your instance
-cp .env.example .env
-# Edit .env with your preferences
-
-# Run locally
-nix run
-
-# Or deploy with Docker
-docker-compose up -d
+# Run immediately without installation
+nix run github:getclippy/clippy
 ```
 
-### Managed Service
+### Other Installation Methods
 
-For those who prefer convenience over control:
+```bash
+# Browser Extensions
+Firefox: https://addons.mozilla.org/firefox/addon/clippy
+Chrome: https://chrome.google.com/webstore/detail/clippy
 
-1. Visit [getclippy.dev](https://getclippy.dev)
-2. Create an account (no personal info required)
-3. Install the browser extension
-4. Watch Clippy go to work
+# Docker/Podman
+docker run -d -p 8080:8080 ghcr.io/getclippy/clippy:latest
+
+# Package Managers
+brew install --cask clippy     # macOS
+winget install getclippy.clippy # Windows
+yay -S clippy-bin              # Arch Linux
+
+# Mobile Apps
+Android: https://play.google.com/store/apps/details?id=dev.getclippy
+iOS: https://apps.apple.com/app/clippy
+```
+
+### Build from Source
+
+```bash
+# Using Nix (reproducible builds)
+git clone https://github.com/getclippy/clippy.git
+cd clippy
+nix build
+
+# Traditional build
+make all
+sudo make install
+```
 
 ## 🏗️ Architecture
 
@@ -118,12 +132,32 @@ graph TB
 ### Building from Source
 
 ```bash
-nix build
+# Install all dependencies
+npm run bootstrap
+
+# Build all packages
+npm run build
+
+# Run tests
+npm run test
+
+# Start development environment
+npm run dev
 ```
 
 ### Contributing
 
-We welcome contributions! Please see our [Community Guide](COMMUNITY.md) for details.
+We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
+
+```bash
+# Fork the repo, then:
+git checkout -b feature/your-feature
+# Make your changes
+npm run test
+git commit -m "feat: add amazing feature"
+git push origin feature/your-feature
+# Open a Pull Request
+```
 
 ## 🗺️ Roadmap
 
@@ -228,18 +262,18 @@ Clippy is strategically incorporated in **Iceland** with development nodes in **
 
 ## 📚 Documentation
 
-- [Quick Start](https://getclippy.dev/docs#quick-start)
-- [Developer Docs](https://getclippy.dev/docs#developers)
-- [API Reference](https://getclippy.dev/docs#api)
-- [Security Model](https://getclippy.dev/docs#security)
-- [FAQ](https://getclippy.dev/docs#faq)
+- [User Guide](https://getclippy.dev/docs/user-guide)
+- [Developer Docs](https://getclippy.dev/docs/developers)
+- [API Reference](https://getclippy.dev/docs/api)
+- [Security Model](https://getclippy.dev/docs/security)
+- [FAQ](https://getclippy.dev/docs/faq)
 
 ## 💬 Community
 
-- **Discord**: [https://discord.gg/JxwzfeGP9R](https://discord.gg/JxwzfeGP9R)
+- **Discord**: [discord.gg/JxwzfeGP9R](https://discord.gg/JxwzfeGP9R)
 - **Matrix**: [#getclippy:matrix.org](https://matrix.to/#/#getclippy:matrix.org)
 - **Forum**: [forum.getclippy.dev](https://forum.getclippy.dev)
-- **X**: [@getclippy](https://x.com/getclippy)
+- **Twitter**: [@getclippy](https://x.com/getclippy)
 
 ## ⚖️ Legal
 
@@ -273,6 +307,4 @@ This ensures Clippy remains free, open, and immune to corporate capture.
 
 ---
 
-*Remember: The best defense against surveillance is making it expensive, unreliable, and unprofitable.*
-
-*Join us in breaking the panopticon, one poisoned click at a time.*
+*Remember: The best defense against surveillance is making it expensive, unreliable, and unprofitable. Join us in breaking the panopticon, one poisoned click at a time.*

@@ -3,6 +3,7 @@
 > "It looks like the surveillance economy is extracting $8,000+ per year from you. Would you like help extracting it back?"
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![Contributors](https://img.shields.io/badge/contributors-500%2B-brightgreen)](https://github.com/getclippy/clippy/graphs/contributors)
 [![Discord](https://img.shields.io/discord/clippy?label=Discord&logo=discord)](https://discord.gg/JxwzfeGP9R)
 [![Docs](https://img.shields.io/badge/docs-getclippy.dev-orange)](https://getclippy.dev/docs)
 
@@ -78,6 +79,41 @@ nix build
 make all
 sudo make install
 ```
+
+## 💯 No Artificial Limits
+
+**Everything in Clippy is free and unlimited. Forever.**
+
+- ✅ Unlimited personas
+- ✅ All poisoning features  
+- ✅ Full extraction engine
+- ✅ Complete AI models
+- ✅ All security features
+- ✅ No premium tiers
+- ✅ No feature flags
+- ✅ No license checks
+
+## 🌐 Hosted Service (Optional)
+
+Don't want to self-host? We offer a hosted service where you pay for:
+
+### What You're Actually Paying For:
+- 🖥️ **Infrastructure** - We handle servers, updates, backups
+- 🔍 **Premium APIs** - Settlement databases, dark web monitoring (costs us $$)
+- 👥 **Human Support** - Real people to help with complex claims
+- 🛡️ **Included Services** - VPN, SMS notifications, legal insurance
+- ⚖️ **Legal Team** - Lawyers on retainer for appeals and disputes
+
+### What You're NOT Paying For:
+- ❌ Artificial feature restrictions
+- ❌ Persona limits
+- ❌ "Premium" functionality
+- ❌ Removing ads (there are none)
+- ❌ Basic features
+
+**Self-host and get everything. Pay us only for convenience and external services.**
+
+Pricing: $8/month personal, $20/month family (6 users), $50/month professional
 
 ## 🏗️ Architecture
 
@@ -297,7 +333,7 @@ This ensures Clippy remains free, open, and immune to corporate capture.
 ---
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/226066239?s=200&v=4" width="100" alt="Clippy">
+  <img src="https://getclippy.dev/clippy-logo.png" width="100" alt="Clippy">
   <br>
   <i>"I'm here to help!"</i>
   <br>
